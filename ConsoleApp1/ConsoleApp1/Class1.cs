@@ -10,5 +10,11 @@ namespace ConsoleApp1
     {
         int num;
         string name;
+        
+
+        int get_sum()
+        {
+            return 120;
+        }
     }
 }
